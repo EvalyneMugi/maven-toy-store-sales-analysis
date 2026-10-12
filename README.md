@@ -52,9 +52,21 @@ The analysis compared sales performance between December 2022 and January 2023.
 
 These results highlight differences in category-level performance and identify areas for further investigation.
 
-## Recommendations
+## Business Recommendations
 
-*Recommendations will be added based on the findings and further investigation.*
+Based on the preliminary findings, the following actions are recommended:
+
+1. **Investigate declining categories:** Examine unit sales, inventory availability, product pricing, and promotions for Toys, Games, and Sports & Outdoors to understand the revenue declines.
+
+2. **Evaluate order value:** Analyze order values and product combinations to identify opportunities for cross-selling and product bundling, while protecting profit margins.
+
+3. **Investigate resilient categories:** Examine Arts & Crafts to understand which products or purchasing patterns may explain its revenue growth.
+
+4. **Monitor performance over time:** Track revenue, order volume, average order value, and profit by month and product category to identify emerging trends.
+
+5. **Test promotional strategies:** Where appropriate, run controlled promotions and evaluate their incremental impact on revenue and profit before expanding them.
+
+These recommendations should be validated with additional analysis before implementation.
 
 ## Deliverables
 
