@@ -3,6 +3,9 @@
 ## Project Overview
 
 This project uses Microsoft Power BI to analyze sales performance for a toy retail business. The aim is to understand revenue, profitability, order volume, and product category performance over time.
+## Power BI Report Preview
+
+![Maven Toy Store Sales Report](images.png)
 
 ## Business Objectives
 
