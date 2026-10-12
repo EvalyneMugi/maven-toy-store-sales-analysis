@@ -42,7 +42,15 @@ The tables were imported into Power BI and organized into a relational data mode
 
 ## Analysis and Findings
 
-*Business findings will be documented here after validating the results from the report.*
+The analysis compared sales performance between December 2022 and January 2023.
+
+- **Overall performance:** Total revenue declined from approximately $877,000 to $747,000, a decrease of 14.8%.
+- **Toys:** Revenue declined by approximately 17.0%, from $264,000 to $219,000. Orders also decreased from 10,000 to 9,000.
+- **Sports & Outdoors:** Revenue declined by approximately 31.0%, from $129,000 to $89,000.
+- **Arts & Crafts:** Revenue increased by approximately 2.1%, from $191,000 to $195,000.
+- **Electronics:** Revenue remained relatively stable, declining by approximately 2.8%, from $108,000 to $105,000.
+
+These results highlight differences in category-level performance and identify areas for further investigation.
 
 ## Recommendations
 
